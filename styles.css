@@ -1,0 +1,63 @@
+html * {
+    font-family: 'Bebas Neue', sans-serif;
+}
+}
+html{ 
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 1em;
+    margin: 0;
+}
+a, code, bold, italic {
+    padding: 0 5px;
+}
+
+#header {
+    background-color: lightskyblue;
+    color:black;
+    text-align: center;
+}
+h1  {
+    font-size: 3em;
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 0;
+    line-height: 100px;
+}
+#image{
+float: left;
+width: 80px;
+height: 80px;
+}
+#description{
+    float: right;
+    width: 700px;
+}
+#price{
+    color: red;
+    font-size: 3em;
+    text-align: center;
+}
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.styled:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
