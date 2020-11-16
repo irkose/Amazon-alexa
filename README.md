@@ -10,7 +10,7 @@ They have a few minimal guidelines that you have to follow when creating the pag
 -[ ] The title must be in Simplifica font. 
 -[x] There will be a “Buy Now” and “Add to basket” image link on the page.”
 
-##Prerequisites:
+## Prerequisites:
 
 ### Before you continue, ensure you have met the following requirements:
 - You have basic understanding of HTML and CSS
