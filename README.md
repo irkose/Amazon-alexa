@@ -25,6 +25,10 @@ They have a few minimal guidelines that you have to follow when creating the pag
 - Create the pull request.
 - Alternatively see the GitHub documentation on creating a pull request.
 
+## Screenshot
+
+![screenshot](/Screenshot.png)
+
 ## Contact
 If you want to contact me you can reach me at irina.kose@gmail.com
  
